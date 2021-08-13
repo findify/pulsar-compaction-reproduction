@@ -18,27 +18,11 @@ project/eclipse.sbt
 
 .idea
 .mp
-ss-input
-product-input
-fp-snapshot
-*.metadata
-synonyms/synonyms.rdb/LOG.old*
-synonyms/synonyms.rdb/LO*
 LOG
 *.LOG
-push-api/src/main/resources/application.conf
-roll*.sh
-.version.txt
-.index_version.txt
-.attach*
+
 
 .DS_STORE
-benchmark/benchmark_indices/
 .run/*
-
 .venv
 
-api-rl-protobuf/src_managed/
-.bsp/*
-benchmark/*.json
-common/src/main/protobuf/active-sync/
